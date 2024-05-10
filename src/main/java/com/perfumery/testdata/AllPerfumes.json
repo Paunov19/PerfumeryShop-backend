@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Xerjoff Discovery Set IV Унисекс подаръчен комплект",
+        "price": "459.99",
+        "products": "EDP 15 ml La Capitale + EDP 15 ml Pikovaya Dama + EDP 15 ml More Than Words ",
+        "imageUrl": "https://parfium.bg/public/img/products/72501/big_xerjoff-discovery-set-iv-uniseks-podarachen-komplekt-7250149936.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Tom Ford Noir Extreme подаръчен комплект за мъже",
+        "price": "419.99",
+        "products": "EDP 100 ml + EDP 10 ml",
+        "imageUrl": "https://parfium.bg/public/img/products/61159/big_tom-ford-noir-extreme-podarachen-komplekt-za-maje-6115949073.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Hermes Eau des Merveilles Подаръчен комплект за жени",
+        "price": "321.99",
+        "products": "EDT 100 ml + EDT 7.5 ml + 80 ml лосион за тяло ",
+        "imageUrl": "https://parfium.bg/public/img/products/59385/big_hermes-eau-des-merveilles-podarachen-komplekt-za-jeni-5938548158.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Guerlain Aqua Allegoria Forte Mandarine Basilic Подаръчен комплект за жени",
+        "price": "357.99",
+        "products": "EDP 125 ml + EDP 7.5 ml + 75 ml лосион за тяло",
+        "imageUrl": "https://parfium.bg/public/img/products/69909/big_guerlain-aqua-allegoria-forte-mandarine-basilic-podarachen-komplekt-za-jeni-6990943828.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    }
+]
+
+
